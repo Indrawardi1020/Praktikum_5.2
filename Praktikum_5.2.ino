@@ -1,9 +1,4 @@
-/****************************************************************
-                  ARIF BUDIMAN(4211501009)
-                      MEKATRONIKA 3A
-                  POLITEKNIK NEGERI BATAM
-              PRAKTIKUM 5.2 Mengirim Data Byte
-****************************************************************/
+/
 void setup() {
 Serial.begin(115200);
 }
